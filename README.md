@@ -6,7 +6,7 @@ pip install heapq_max
 How to run the project:
 1) Download all files
 2) Create virtual environment (for example with PyCharm)
-3) Insert all downloaded files in the current project (of PyCharm) [DO NOT remove packages]
+3) Insert all downloaded files in the current project (of PyCharm) [DO NOT remove packages]->[files in data are needed to avoid creating directories, they will all be refreshed, except for the tweets.csv]
 4) install all requirements
 5) 	$ export AIRFLOW_HOME=~/airflow   
 	$ AIRFLOW_VERSION=2.2.1
