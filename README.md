@@ -14,7 +14,7 @@ How to run the project:
 <!-- Change your directory -->
 5)
 
-	export AIRFLOW_HOME=~/PycharmProjects/airflow
+	export AIRFLOW_HOME=~/home/arix/PycharmProjects/airflow
 
 	AIRFLOW_VERSION=2.2.1
 
@@ -24,7 +24,9 @@ How to run the project:
 
 	pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
 
-6) airflow standalone
+6) airflow db init
+	
+   airflow standalone
 
 7) Log in on localhost:8080 by given login and password
 
