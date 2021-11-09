@@ -14,7 +14,7 @@ How to run the project:
 <!-- Change your directory -->
 5)
 
-	export AIRFLOW_HOME=~/PyCharm/airflow
+	export AIRFLOW_HOME=~/Pycharm/airflow
 
 	AIRFLOW_VERSION=2.2.1
 
